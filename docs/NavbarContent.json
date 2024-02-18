@@ -1,0 +1,99 @@
+[
+  {
+    "label": "Home",
+    "type": "internal",
+
+    "current": {
+      "pathname": "/"
+    },
+    "handleClick": {
+      "link": "/"
+    }
+  },
+  {
+    "label": "Registers",
+    "type": "internalMarkdown",
+    "current": {
+      "pathname": "/Docs/CONTRIBUTING"
+    },
+    "handleClick": {
+      "internalMarkdown": {
+        "directoryName": "Docs",
+        "fileName": "CONTRIBUTING"
+      }
+    }
+  },
+  {
+    "label": "Handleidingen",
+    "current": {
+      "pathname": "/Handleidingen"
+    },
+    "subItems": [
+      {
+        "label": "Installatie",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Handleidingen/Installatie"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Handleidingen",
+            "fileName": "Installatie"
+          }
+        }
+      },
+      {
+        "label": "Architectuur",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Handleidingen/Architectuur"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Handleidingen",
+            "fileName": "Architectuur"
+          }
+        }
+      },
+      {
+        "label": "Functionaliteit",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Handleidingen/Features"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Handleidingen",
+            "fileName": "Features"
+          }
+        }
+      },
+      {
+        "label": "Roadmap",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Handleidingen/Features"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Handleidingen",
+            "fileName": "Features"
+          }
+        }
+      },
+      {
+        "label": "Tutorial",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Handleidingen/Testen"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Handleidingen",
+            "fileName": "Testen"
+          }
+        }
+      }
+    ]
+  }
+]
