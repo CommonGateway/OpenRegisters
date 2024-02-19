@@ -9,16 +9,16 @@ OpenRegisters is een innovatief framework gebaseerd op Symfony, ontworpen om zow
 - **Federatie:** Volledige ondersteuning voor federatie via NLX/FSC, wat compatibiliteit met federale systemen waarborgt.
 - **Virtuele Registers:** Mogelijkheid om meerdere losse registers te combineren tot één virtueel register, essentieel voor projecten zoals OpenWoo.app en OpenCatalogi.nl.
 - **Gedeelde Functionaliteit:** Inclusief logging en verwerking, autorisatie & authenticatie, notificatie, filtering, en uitbreidbaarheid voor alle registers.
-- **Federaal Doovragen:** Ondersteunt het opvragen van gegevens uit één register via een ander, zoals de integratie van BRP-gegevens bij klantbevragingen.
-- **Importeren van VNG API specificaties:** Door de ondersteuning van OAS3 kunnen door de VNG opgestelde API specifiacties reachtreeks worden geimporteerd en uitgeleverd 
-- **Lage beheer, implementatie en hosting kosten:** Doordat Open Register ieder register als adaptor ziet in plaats van een volledige applicatie kunnen er gemakkenlijk meerdere regsiters worden geleverd vanuit één installatie.  
-- **Multi tenant:** Geavenceerde mogenlijkheid om meerdere tenants (organisaties) vanuit één installatie te draaien maakt open registers die ideele oplossing voor (SAAS) leveranciers en samenwerkings verbanden. 
+- **Federaal Doorvragen:** Ondersteunt het opvragen van gegevens uit één register via een ander, zoals de integratie van BRP-gegevens bij klantbevragingen.
+- **Importeren van VNG API specificaties:** Door de ondersteuning van OAS3 kunnen door de VNG opgestelde API-specifiacties rechtreeks worden geïmporteerd en uitgeleverd 
+- **Lage beheer, implementatie en hosting kosten:** Doordat OpenRegisters ieder register als adaptor ziet in plaats van een volledige applicatie kunnen er gemakkelijk meerdere registers worden geleverd vanuit één installatie.  
+- **Multitenant:** Geavanceerde mogelijkheid om meerdere tenants (organisaties) vanuit één installatie te draaien maakt OpenRegisters de ideale oplossing voor (SAAS) leveranciers en samenwerkingsverbanden. 
 - *Gemaakt voor GROTE data sets:** OpenRegisters is speciaal ontworpen om efficiënt om te gaan met grote hoeveelheden data. Het maakt gebruik van de schaalbaarheid en snelheid van object storage om grote datasets snel en betrouwbaar te verwerken, waardoor het ideaal is voor overheidsregisters die te maken hebben met aanzienlijke hoeveelheden informatie.
-- *Snel als bliksem:** De architectuur van OpenRegisters, in combinatie met de backend van object storage, zorgt voor ongeëvenaarde snelheden bij dataopslag en -toegang. Dit resulteert in een snellere respons voor eindgebruikers en efficiëntere datahandeling, wat cruciaal is voor de prestaties van overheidsdiensten.
+- *Snel als de bliksem:** De architectuur van OpenRegisters, in combinatie met de backend van object storage, zorgt voor ongeëvenaarde snelheden bij dataopslag en -toegang. Dit resulteert in een snellere respons voor eindgebruikers en efficiëntere datahandeling, wat cruciaal is voor de prestaties van overheidsdiensten.
 
 ## Installatie
 
-### Locale Installatie
+### Lokale Installatie
 #### Vereisten
 
 - PHP 7.4 of hoger
@@ -29,7 +29,7 @@ OpenRegisters is een innovatief framework gebaseerd op Symfony, ontworpen om zow
 
 1. Clone het OpenRegisters repository: `git clone https://github.com/ConductionNL/OpenRegisters.git`
 2. Installeer de benodigde afhankelijkheden: `composer install`
-3. Configureer uw omgevingsvariabelen (.env) met de nodige gegevens voor uw object store.
+3. Configureer uw omgevingsvariabelen (`.env`) met de nodige gegevens voor uw object store.
 4. Volg de specifieke configuratie-instructies voor de gekozen object store.
 
 ## Gebruik
@@ -46,5 +46,5 @@ OpenRegisters is uitgegeven onder een EUPL 1.2 licentie. Zie het (`LICENSE.md`)[
 
 ## Contact
 
-Voor meer informatie over OpenRegisters en hoe u het kunt inzetten binnen uw organisatie, neem contact met ons op via info@conduction.nl.
+Voor meer informatie over OpenRegisters en hoe u het kunt inzetten binnen uw organisatie, neem contact met ons op via [info@conduction.nl](mailto:info@conduction.nl).
 
