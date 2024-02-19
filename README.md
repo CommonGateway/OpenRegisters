@@ -38,13 +38,13 @@ Na installatie en configuratie kunt u beginnen met het definiëren van uw regist
 
 ## Bijdragen
 
-Bijdragen aan OpenRegisters is welkom! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze `CONTRIBUTING.md` voor meer informatie over hoe u kunt bijdragen.
+Bijdragen aan OpenRegisters zij welkom! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md)  voor meer informatie over hoe u kunt bijdragen.
 
 ## Licentie
 
-OpenRegisters is uitgegeven onder een EUPL 1.2 licentie. Zie het (`LICENSE.md`)[`LICENSE.md`] bestand in onze GitHub repository voor meer details.
+OpenRegisters is uitgegeven onder een EUPL 1.2 licentie. Zie het [LICENSE.md](LICENSE.md) bestand in onze GitHub repository voor meer details.
 
 ## Contact
 
-Voor meer informatie over OpenRegisters en hoe u het kunt inzetten binnen uw organisatie, neem contact met ons op via info@conduction.nl.
+Voor meer informatie over OpenRegisters en hoe u het kunt inzetten binnen uw organisatie, neem contact met ons op via [info@conduction.nl](mailto:info@conduction.nl).
 
