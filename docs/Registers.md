@@ -4,6 +4,6 @@
 
 ## Klanten Registers
 
-## Open Index
+## OpenIndex
 
 ## Waardepapieren Register
