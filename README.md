@@ -39,7 +39,7 @@ Na installatie en configuratie kunt u beginnen met het definiëren van uw regist
 
 ## Bijdragen
 
-Bijdragen aan OpenRegisters is welkom! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze `CONTRIBUTING.md` voor meer informatie over hoe u kunt bijdragen.
+Bijdragen aan OpenRegisters? Graag! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md)  voor meer informatie over hoe u kunt bijdragen.
 
 ## Licentie
 
