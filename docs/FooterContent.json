@@ -14,7 +14,7 @@
         "link": "https://github.com/CommonGateway/OpenRegisters",
         "icon": { "prefix": "fab", "icon": "github", "placement": "left" }
       },
-       {
+      {
         "ariaLabel": "Slack",
         "value": "Slack",
         "link": "https://samenorganiseren.slack.com/archives/C03JLP1EUH4",
