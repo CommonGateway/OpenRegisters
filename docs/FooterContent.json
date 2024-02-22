@@ -13,26 +13,23 @@
         "ariaLabel": "Github",
         "link": "https://github.com/CommonGateway/OpenRegisters",
         "icon": { "prefix": "fab", "icon": "github", "placement": "left" }
-      }
+      },
+       {
+        "ariaLabel": "Slack",
+        "value": "Slack",
+        "link": "https://samenorganiseren.slack.com/archives/C03JLP1EUH4",
+        "icon": { "prefix": "fab", "icon": "slack", "placement": "left" }
+      },
     ]
   },
   {
     "title": "Handleidingen",
     "items": [
       {
-        "value": "Installatie",
-        "ariaLabel": "Installatie",
-        "internalMarkdown": {
-          "directoryName": "Handleidingen",
-          "fileName": "Installatie"
-        },
-        "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
-      },
-      {
         "value": "Architectuur",
         "ariaLabel": "Architectuur",
         "internalMarkdown": {
-          "directoryName": "Handleidingen",
+          "directoryName": "docs",
           "fileName": "Architectuur"
         },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
@@ -41,59 +38,26 @@
         "value": "Functionaliteit",
         "ariaLabel": "Functionaliteit",
         "internalMarkdown": {
-          "directoryName": "Handleidingen",
+          "directoryName": "docs",
           "fileName": "Features"
         },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       },
       {
-        "value": "Frontend",
-        "ariaLabel": "Frontend",
+        "value": "Kosten",
+        "ariaLabel": "Kosten",
         "internalMarkdown": {
-          "directoryName": "Handleidingen",
-          "fileName": "Frontend"
+          "directoryName": "docs",
+          "fileName": "Kosten"
         },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       },
       {
-        "value": "Productie",
-        "ariaLabel": "Productie",
+        "value": "Tutorial",
+        "ariaLabel": "Tutorial",
         "internalMarkdown": {
-          "directoryName": "Handleidingen",
-          "fileName": "Productie"
-        },
-        "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
-      },
-      {
-        "value": "Testen",
-        "ariaLabel": "Testen",
-        "internalMarkdown": {
-          "directoryName": "Handleidingen",
-          "fileName": "Testen"
-        },
-        "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
-      }
-    ]
-  },
-  {
-    "title": "Overige Documenten",
-    "items": [
-      {
-        "ariaLabel": "Bijdragen",
-        "value": "Bijdragen",
-        "internalMarkdown": {
-          "directoryName": "Docs",
-          "fileName": "CONTRIBUTING"
-        },
-
-        "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
-      },
-      {
-        "ariaLabel": "Organisatie",
-        "value": "Organisatie",
-        "internalMarkdown": {
-          "directoryName": "Docs",
-          "fileName": "GOVERNANCE"
+          "directoryName": "docs",
+          "fileName": "Tutorial"
         },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       }
