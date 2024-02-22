@@ -1,4 +1,4 @@
-# Registers
+# Docs
 
 - [Architectuur](/docs/Architectuur.md)
 - [Features](/docs/Featuresg.md)
