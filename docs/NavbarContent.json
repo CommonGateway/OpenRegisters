@@ -30,18 +30,6 @@
     },
     "subItems": [
       {
-        "label": "Installatie",
-        "type": "internalMarkdown",
-        "current": {
-          "pathname": "/docs/installatie"
-        },
-        "handleClick": {
-          "internalMarkdown": {
-            "fileName": "INSTALLATION"
-          }
-        }
-      },
-      {
         "label": "Architectuur",
         "type": "internalMarkdown",
         "current": {
@@ -58,7 +46,7 @@
         "label": "Functionaliteit",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/docs/features"
+          "pathname": "/docs/Features"
         },
         "handleClick": {
           "internalMarkdown": {
@@ -68,14 +56,14 @@
         }
       },
       {
-        "label": "Roadmap",
+        "label": "Kosten",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/docs/Features"
+          "pathname": "/docs/Kosten"
         },
         "handleClick": {
           "internalMarkdown": {
-            "fileName": "ROADMAP"
+            "fileName": "Kosten"
           }
         }
       },
@@ -83,7 +71,7 @@
         "label": "Tutorial",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/docs/Testen"
+          "pathname": "/docs/Tutorial"
         },
         "handleClick": {
           "internalMarkdown": {
