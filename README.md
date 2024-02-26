@@ -28,7 +28,7 @@ OpenRegisters is een innovatief framework gebaseerd op Symfony, ontworpen om zow
 
 #### Stap-voor-stap Installatie
 
-1. Clone het OpenRegisters repository: `git clone https://github.com/ConductionNL/OpenRegisters.git`
+1. Clone het OpenRegisters repository: `git clone https://github.com/CommonGateway/OpenRegisters.git`
 2. Installeer de benodigde afhankelijkheden: `composer install`
 3. Configureer uw omgevingsvariabelen (`.env`) met de nodige gegevens voor uw object store.
 4. Volg de specifieke configuratie-instructies voor de gekozen object store.
