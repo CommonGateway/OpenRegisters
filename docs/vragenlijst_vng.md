@@ -24,35 +24,48 @@ OpenRegisters transformeert dataopslag en -toegang voor overheidsinstanties door
 
 Overkoepelend/ randvoorwaardelijk voor CG
 
-## 7 Welk type organisaties zijn betrokken?
-
-* Gemeenten
-
-* Leveranciers
-
-* VNG
-
-* Ketenpartners
-
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-N.V.T 
+Rotterdam
+Gouda
+Noordwijk
+Tubbergen
+Epe
+Dinkelland
+Leiden
+Roermond
+Assen
+Hilversum
+Haarlemermeer
+Enschede
+Eindhoven
+Hardewijk
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-N.V.T 
+Rotterdam
+Buren
+Epe
+Roozendaal
+Gouda
+Noordwijk
+Zutphen
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction B.V 
+Conduction B.V
+Yard
+Acato
+Sim Groep
+Xxllnc
 
 ## 11 Wat is de startdatum van het initiatief
 
-Geef de datum op (dd-MM-yyyy)
+01-06-2023
 
 ## 12 Wanneer wordt verwacht dat het initiatief ready for use  is? Of sinds wanneer is het initiatief ready for use? (Let er op dat dit na de startdatum is)
 
-Geef de datum op (dd-MM-yyyy)
+01-11-2023
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
