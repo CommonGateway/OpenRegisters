@@ -2,7 +2,7 @@
 
 ## 1 Wat is de naam van het initiatief dat je wilt aanmelden?
 
-OpenRegisters
+Open Registers
 
 ## 2 Wat voor type product is het initiatief?
 
@@ -10,15 +10,15 @@ OpenRegisters
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-OpenRegisters maakt gebruik van een innovatief framework gebaseerd op Symfony voor het bieden van object storage en API's. Het integreert federale netwerken en biedt multi-tenant ondersteuning.
+Open Registers maakt gebruik van een innovatief framework gebaseerd op Symfony voor het bieden van object storage en API's. Het integreert federale netwerken en biedt multitenant ondersteuning.
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
-Ja, OpenRegisters is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag.
+Ja, Open Registers is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag.
 
 ## 5 Indien een toepassing, pitch je product Waarom zouden anderen moeten mee doen met de ontwikkeling of waarom zouden andere gemeenten jouw product moeten implementeren
 
-OpenRegisters transformeert dataopslag en -toegang voor overheidsinstanties door een snelle en betrouwbare oplossing te bieden die de beperkingen van traditionele databases elimineert. Het verhoogt de efficiëntie en schaalbaarheid van data-integratie en -beheer, essentieel voor het realiseren van de Common Ground visie.
+Open Registers transformeert de manier waarop overheidsinstanties data beheren, met een focus op snelheid, efficiëntie, en schaalbaarheid die essentieel zijn voor de realisatie van Common Ground. Dit framework maakt directe opslag in object stores mogelijk, elimineert de beperkingen van traditionele databases, en integreert naadloos federale netwerken en multi-tenant ondersteuning. Kiezen voor Open Registers betekent investeren in een toekomstbestendige oplossing die uw organisatie flexibeler, sneller en kostenefficiënter maakt.
 
 ## 6 In welk domein past het initiatief?
 
@@ -43,13 +43,20 @@ Hardewijk
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Rotterdam
-Buren
-Epe
-Roozendaal
-Gouda
 Noordwijk
+Tubbergen
+Epe
+Rotterdam
+Gouda
 Zutphen
+Roosendaal
+Alkmaar
+Barendrecht
+Albrandswaard
+Ridderkerk
+Hoeksche Waard
+Sud-West Fryslan
+Fryske Marren
 
 ## 10 Welke leveranciers zijn betrokken?
 
@@ -69,7 +76,7 @@ Xxllnc
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
-Conduction B.V. 
+Conduction B.V.
 
 ## 14 Wie is de PO (product owner) van dit initiatief? (en dus contactpersoon)
 
@@ -77,15 +84,15 @@ Ruben van der Linde
 
 ## 15 Wat is het emailadres van de PO?
 
-ruben@conduction.nl
+<ruben@conduction.nl>
 
 ## 16 Op welke website kunnen we meer info over het product vinden? (Kan ook link naar groepspagina op commongroundnl zijn)
 
-https://openregisters.app/
+<https://openregisters.app/>
 
 ## 17 Wat is een korte omschrijving van het product?
 
-OpenRegisters biedt een revolutionaire benadering van dataopslag en -toegang voor overheidsinstanties door het gebruik van object stores en API's, wat resulteert in verhoogde snelheid, flexibiliteit en schaalbaarheid in datamanagement.
+Gemakkelijk maken, beheren en hosten van registers op basis van o.a. VNG API-standaarden
 
 ## 18 Hoeverre draagt het initiatief volgens jou bij aan de wendbaarheid van gemeenten?
 
@@ -118,7 +125,7 @@ Hoewel OpenRegisters primair gericht is op het verbeteren van dataopslag en -toe
 
 ## 24 Waar staat informatie over de planning? Voeg indien mogelijk de link toe
 
-Op te vragen bij leverancier
+Deze informatie wordt bijgehouden op de website van OpenRegisters: <https://openregisters.app/>
 
 ## 25 Op welke laag of op welke lagen bevindt dit initiatief zich
 
@@ -127,7 +134,8 @@ laag 2: toegang tot data/ API's
 
 ## 26 Welke API-standaarden zijn toegepast? (zie ook <https://wwwgemmaonlinenl/indexphp/Overzicht_vastgestelde_standaarden>)
 
-(Voer uw antwoord in)
+Haal Centraal
+API-standaarden voor ZGW-werken
 
 ## 27 In welke fase bevindt het initiatief zich?
 
