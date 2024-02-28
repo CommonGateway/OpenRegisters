@@ -9,6 +9,7 @@ Open Registers
 * Toepassing (bruikbare oplossing)
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
+
 - FSC/NLX
 - Objectstore(MonggoDB)
 - Symfony
@@ -46,15 +47,15 @@ Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-
 Noordwijk (Via OpenWoo.app)
 Tubbergen (Via OpenWoo.app)
 Epe(Via OpenWoo.app)
 Rotterdam (Via OpenCatalogi)
-Gouda (Via OpenWoo.app)
+Gouda (Via OpenWoo.app, Open Registers | Klanten, Open Registers | Zaken)
 Zutphen (Via OpenWoo.app)
 Roosendaal (Via OpenWoo.app)
 Alkmaar (Via OpenCatalogi)
+Buren (Via Open Registers | Klanten)
 Barendrecht (Via Open Registers | Klanten)
 Albrandswaard (Via Open Registers | Klanten)
 Ridderkerk (Via Open Registers | Klanten)
@@ -140,6 +141,7 @@ laag 2: toegang tot data/ API's
 
 Haal Centraal
 API-standaarden voor ZGW-werken
+API-standaarden voor klanten en klant interacties
 NL-API strategie
 NL-GOV profiel voor cloud events
 
