@@ -9,12 +9,15 @@ Open Registers
 * Toepassing (bruikbare oplossing)
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
-
-Open Registers maakt gebruik van een innovatief framework gebaseerd op Symfony voor het bieden van object storage en API's. Het integreert federale netwerken en biedt multitenant ondersteuning.
+- FSC/NLX
+- Objectstore(MonggoDB)
+- Symfony
+- API Platform
+- Database(MySQL/Postgres/MsSQL)
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
-Ja, Open Registers is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag.
+Ja, Open Registers is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag. Het kan daarbij zowel koppelen op bestaande databases en die als API ontsluiten als nieuw objectstores aanmaken.
 
 ## 5 Indien een toepassing, pitch je product Waarom zouden anderen moeten mee doen met de ontwikkeling of waarom zouden andere gemeenten jouw product moeten implementeren
 
@@ -26,45 +29,46 @@ Overkoepelend/ randvoorwaardelijk voor CG
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam
-Gouda
-Noordwijk
-Tubbergen
-Epe
-Dinkelland
-Leiden
-Roermond
-Assen
-Hilversum
-Haarlemermeer
-Enschede
-Eindhoven
-Hardewijk
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenCatalogi)
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe (Via OpenWoo.app)
+Dinkelland (Via OpenWoo.app)
+Leiden (Via OpenCatalogi)
+Roermond (Via OpenWoo.app)
+Assen (Via OpenWoo.app)
+Hilversum (Via OpenWoo.app)
+Haarlemermeer (Via OpenWoo.app)
+Enschede (Via OpenWoo.app)
+Eindhoven (Via OpenWoo.app)
+Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Noordwijk
-Tubbergen
-Epe
-Rotterdam
-Gouda
-Zutphen
-Roosendaal
-Alkmaar
-Barendrecht
-Albrandswaard
-Ridderkerk
-Hoeksche Waard
-Sud-West Fryslan
-Fryske Marren
+
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe(Via OpenWoo.app)
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenWoo.app)
+Zutphen (Via OpenWoo.app)
+Roosendaal (Via OpenWoo.app)
+Alkmaar (Via OpenCatalogi)
+Barendrecht (Via Open Registers | Klanten)
+Albrandswaard (Via Open Registers | Klanten)
+Ridderkerk (Via Open Registers | Klanten)
+Hoeksche Waard (Via Open Registers | Klanten)
+Sud-West Fryslan (Via Open Registers | Klanten)
+Fryske Marren (Via Open Registers | Klanten)
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction B.V
-Yard
-Acato
-Sim Groep
-Xxllnc
+Conduction B.V (Via OpenWoo.app en  OpenCatalogi)
+Yard (Via OpenWoo.app)
+Acato (Via OpenWoo.app)
+Sim Groep (Via OpenWoo.app en  OpenCatalogi)
+Xxllnc (Via OpenWoo.app en Open Registers | Klanten)
 
 ## 11 Wat is de startdatum van het initiatief
 
@@ -136,6 +140,8 @@ laag 2: toegang tot data/ API's
 
 Haal Centraal
 API-standaarden voor ZGW-werken
+NL-API strategie
+NL-GOV profiel voor cloud events
 
 ## 27 In welke fase bevindt het initiatief zich?
 
@@ -143,6 +149,8 @@ API-standaarden voor ZGW-werken
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-(Voer uw antwoord in)
+Er is nog een gebrek aan overkoepelende API patronen (zo als extend) waardoor het ook lastig is om een overkoepeld framework neer te zetten dat deze patronen ondersteund, commercieel en politiek hebben we er veel last van dat vanuit de VNG  alleen de oplossingen van Utrecht / Den Haag worden gezien als het gaat om componenten die standaarden leveren waardoor het moeilijk is voor andere overheden en leveranciers om hun open-source oplossing onder de aandacht te brengen. Dit verminderd het aantal deelnemers in het speelveld en is daarmee schadelijk voor innovatie. 
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
+
+Nee
