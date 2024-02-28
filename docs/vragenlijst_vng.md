@@ -2,7 +2,7 @@
 
 ## 1 Wat is de naam van het initiatief dat je wilt aanmelden?
 
-OpenRegisters
+Open Registers
 
 ## 2 Wat voor type product is het initiatief?
 
@@ -10,54 +10,74 @@ OpenRegisters
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-OpenRegisters maakt gebruik van een innovatief framework gebaseerd op Symfony voor het bieden van object storage en API's. Het integreert federale netwerken en biedt multi-tenant ondersteuning.
+* FSC/NLX
+
+* Objectstore(MonggoDB)
+* Symfony
+* API Platform
+* Database(MySQL/PostgrSQL/MsSQL)
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
-Ja, OpenRegisters is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag.
+Ja, Open Registers is ontworpen om naast bestaande systemen te functioneren en ondersteunt een soepele overgang van traditionele databases naar een meer flexibele en schaalbare dataopslag. Het kan daarbij zowel koppelen op bestaande databases en die als API ontsluiten als nieuw objectstores aanmaken.
 
 ## 5 Indien een toepassing, pitch je product Waarom zouden anderen moeten mee doen met de ontwikkeling of waarom zouden andere gemeenten jouw product moeten implementeren
 
-OpenRegisters transformeert dataopslag en -toegang voor overheidsinstanties door een snelle en betrouwbare oplossing te bieden die de beperkingen van traditionele databases elimineert. Het verhoogt de efficiëntie en schaalbaarheid van data-integratie en -beheer, essentieel voor het realiseren van de Common Ground visie.
+Open Registers transformeert de manier waarop overheidsinstanties data beheren, met een focus op snelheid, efficiëntie, en schaalbaarheid die essentieel zijn voor de realisatie van Common Ground. Dit framework maakt directe opslag in object stores mogelijk, elimineert de beperkingen van traditionele databases, en integreert naadloos federale netwerken en multi-tenant ondersteuning. Kiezen voor Open Registers betekent investeren in een toekomstbestendige oplossing die uw organisatie flexibeler, sneller en kostenefficiënter maakt.
 
 ## 6 In welk domein past het initiatief?
 
 Overkoepelend/ randvoorwaardelijk voor CG
 
+## 7 Welk type organisaties zijn betrokken?
+
+* Gemeenten
+* Leveranciers
+* VNG
+* Ketenpartners
+
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam
-Gouda
-Noordwijk
-Tubbergen
-Epe
-Dinkelland
-Leiden
-Roermond
-Assen
-Hilversum
-Haarlemermeer
-Enschede
-Eindhoven
-Hardewijk
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenCatalogi)
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe (Via OpenWoo.app)
+Dinkelland (Via OpenWoo.app)
+Leiden (Via OpenCatalogi)
+Roermond (Via OpenWoo.app)
+Assen (Via OpenWoo.app)
+Hilversum (Via OpenWoo.app)
+Haarlemermeer (Via OpenWoo.app)
+Enschede (Via OpenWoo.app)
+Eindhoven (Via OpenWoo.app)
+Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Rotterdam
-Buren
-Epe
-Roozendaal
-Gouda
-Noordwijk
-Zutphen
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe(Via OpenWoo.app)
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenWoo.app, Open Registers | Klanten, Open Registers | Zaken)
+Zutphen (Via OpenWoo.app)
+Roosendaal (Via OpenWoo.app)
+Alkmaar (Via OpenCatalogi)
+Buren (Via Open Registers | Klanten)
+Barendrecht (Via Open Registers | Klanten)
+Albrandswaard (Via Open Registers | Klanten)
+Ridderkerk (Via Open Registers | Klanten)
+Hoeksche Waard (Via Open Registers | Klanten)
+Sud-West Fryslan (Via Open Registers | Klanten)
+Fryske Marren (Via Open Registers | Klanten)
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction B.V
-Yard
-Acato
-Sim Groep
-Xxllnc
+Conduction B.V (Via OpenWoo.app en  OpenCatalogi)
+Yard (Via OpenWoo.app)
+Acato (Via OpenWoo.app)
+Sim Groep (Via OpenWoo.app en  OpenCatalogi)
+Xxllnc (Via OpenWoo.app en Open Registers | Klanten)
 
 ## 11 Wat is de startdatum van het initiatief
 
@@ -69,7 +89,7 @@ Xxllnc
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
-Conduction B.V. 
+Conduction B.V.
 
 ## 14 Wie is de PO (product owner) van dit initiatief? (en dus contactpersoon)
 
@@ -77,15 +97,15 @@ Ruben van der Linde
 
 ## 15 Wat is het emailadres van de PO?
 
-ruben@conduction.nl
+<ruben@conduction.nl>
 
 ## 16 Op welke website kunnen we meer info over het product vinden? (Kan ook link naar groepspagina op commongroundnl zijn)
 
-https://openregisters.app/
+<https://openregisters.app/>
 
 ## 17 Wat is een korte omschrijving van het product?
 
-OpenRegisters biedt een revolutionaire benadering van dataopslag en -toegang voor overheidsinstanties door het gebruik van object stores en API's, wat resulteert in verhoogde snelheid, flexibiliteit en schaalbaarheid in datamanagement.
+Gemakkelijk maken, beheren en hosten van registers op basis van o.a. VNG API-standaarden
 
 ## 18 Hoeverre draagt het initiatief volgens jou bij aan de wendbaarheid van gemeenten?
 
@@ -118,7 +138,7 @@ Hoewel OpenRegisters primair gericht is op het verbeteren van dataopslag en -toe
 
 ## 24 Waar staat informatie over de planning? Voeg indien mogelijk de link toe
 
-Op te vragen bij leverancier
+Deze informatie wordt bijgehouden op de website van OpenRegisters: <https://openregisters.app/>
 
 ## 25 Op welke laag of op welke lagen bevindt dit initiatief zich
 
@@ -127,7 +147,11 @@ laag 2: toegang tot data/ API's
 
 ## 26 Welke API-standaarden zijn toegepast? (zie ook <https://wwwgemmaonlinenl/indexphp/Overzicht_vastgestelde_standaarden>)
 
-(Voer uw antwoord in)
+Haal Centraal
+API-standaarden voor ZGW-werken
+API-standaarden voor klanten en klant interacties
+NL-API strategie
+NL-GOV profiel voor cloud events
 
 ## 27 In welke fase bevindt het initiatief zich?
 
@@ -135,6 +159,8 @@ laag 2: toegang tot data/ API's
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-(Voer uw antwoord in)
+Er is nog een gebrek aan overkoepelende API patronen (zo als extend) waardoor het ook lastig is om een overkoepeld framework neer te zetten dat deze patronen ondersteund, commercieel en politiek hebben we er veel last van dat vanuit de VNG  alleen de oplossingen van Utrecht / Den Haag worden gezien als het gaat om componenten die standaarden leveren waardoor het moeilijk is voor andere overheden en leveranciers om hun open-source oplossing onder de aandacht te brengen. Dit verminderd het aantal deelnemers in het speelveld en is daarmee schadelijk voor innovatie.
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
+
+Nee
