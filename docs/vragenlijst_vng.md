@@ -10,11 +10,12 @@ Open Registers
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-- FSC/NLX
-- Objectstore(MonggoDB)
-- Symfony
-- API Platform
-- Database(MySQL/Postgres/MsSQL)
+* FSC/NLX
+
+* Objectstore(MonggoDB)
+* Symfony
+* API Platform
+* Database(MySQL/PostgrSQL/MsSQL)
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
@@ -27,6 +28,13 @@ Open Registers transformeert de manier waarop overheidsinstanties data beheren, 
 ## 6 In welk domein past het initiatief?
 
 Overkoepelend/ randvoorwaardelijk voor CG
+
+## 7 Welk type organisaties zijn betrokken?
+
+* Gemeenten
+* Leveranciers
+* VNG
+* Ketenpartners
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
@@ -151,7 +159,7 @@ NL-GOV profiel voor cloud events
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-Er is nog een gebrek aan overkoepelende API patronen (zo als extend) waardoor het ook lastig is om een overkoepeld framework neer te zetten dat deze patronen ondersteund, commercieel en politiek hebben we er veel last van dat vanuit de VNG  alleen de oplossingen van Utrecht / Den Haag worden gezien als het gaat om componenten die standaarden leveren waardoor het moeilijk is voor andere overheden en leveranciers om hun open-source oplossing onder de aandacht te brengen. Dit verminderd het aantal deelnemers in het speelveld en is daarmee schadelijk voor innovatie. 
+Er is nog een gebrek aan overkoepelende API patronen (zo als extend) waardoor het ook lastig is om een overkoepeld framework neer te zetten dat deze patronen ondersteund, commercieel en politiek hebben we er veel last van dat vanuit de VNG  alleen de oplossingen van Utrecht / Den Haag worden gezien als het gaat om componenten die standaarden leveren waardoor het moeilijk is voor andere overheden en leveranciers om hun open-source oplossing onder de aandacht te brengen. Dit verminderd het aantal deelnemers in het speelveld en is daarmee schadelijk voor innovatie.
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
 
