@@ -1,6 +1,6 @@
 # Over Open Registers
 
-OpenRegisters is een innovatief framework gebaseerd op Symfony, ontworpen om zowel object storage als API's op een fenomenaal snelle wijze te bieden. Dit wordt bereikt door binnenkomende objecten direct op te slaan in een object store (zoals MongoDB, CouchDB, Amazon S3, en de Google en Azure varianten daarvan), in plaats van in traditionele relationele databases. Hierdoor kunnen registers functioneren als 'adaptors' bovenop een open source object store, wat leidt tot een reeks van voordelen voor overheidsinstanties.
+Open Registers is een innovatief framework gebaseerd op Symfony, ontworpen om zowel object storage als APIs op een fenomenaal snelle wijze te bieden. Dit wordt bereikt door binnenkomende objecten direct op te slaan in een object store (zoals MongoDB, CouchDB, Amazon S3, en de Google en Azure varianten daarvan), in plaats van in traditionele relationele databases. Hierdoor kunnen registers functioneren als 'adaptors' bovenop een open source object store, wat leidt tot een reeks van voordelen voor overheidsinstanties.
 
 ## Kernvoordelen
 

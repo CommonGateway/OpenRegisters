@@ -2,7 +2,7 @@
 
 ## Open Index
 
-Lees meer op [https://openindex.online/](https://openindex.online/).
+Lees meer op [https://index.openregisters.app/](https://index.openregisters.app/).
 
 ## Zaak Registratie
 
